@@ -1,8 +1,10 @@
-//write include required statements
+#ifndef DECISIONS_H
+#define DECISIONS_H
 
+char get_letter_grade_using_if(int numerical_grade);
+char get_letter_grade_using_switch(int numerical_grade);
 
-//Write a function(s) prototype  here
-
+#endif
 
 
 
